@@ -72,3 +72,9 @@ If you can't use GitHub, you can use other providers:
 9. Do steps 5 and 6 again.
 
 10. Open the installed version of the app and see that it updates itself.
+
+
+## commands
+
+    mac:
+    export GH_TOKEN="1c9e74185ca7017d30a07bb56d4089fef164ff69"
