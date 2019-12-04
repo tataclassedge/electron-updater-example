@@ -78,3 +78,4 @@ If you can't use GitHub, you can use other providers:
 
     mac:
     export GH_TOKEN="1c9e74185ca7017d30a07bb56d4089fef164ff69"
+    export GH_TOKEN="ac7f1ee7d6720f0a468dfbb5994099666da5c47a"
