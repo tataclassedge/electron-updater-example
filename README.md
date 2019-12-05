@@ -1,3 +1,19 @@
+
+## changes
+
+- generic
+
+## commands
+
+## infos
+
+    mac:
+    export GH_TOKEN="ac7f1ee7d6720f0a468dfbb5994099666da5c47a"
+
+    win:
+    export GH_TOKEN="6c8f0cae5040eb157c03946c2012e71dce36e71f"
+
+
 This repo contains the **bare minimum code** to have an auto-updating Electron app using [`electron-updater`](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) with releases stored on GitHub.
 
 If you can't use GitHub, you can use other providers:
@@ -74,10 +90,3 @@ If you can't use GitHub, you can use other providers:
 10. Open the installed version of the app and see that it updates itself.
 
 
-## commands
-
-    mac:
-    export GH_TOKEN="ac7f1ee7d6720f0a468dfbb5994099666da5c47a"
-
-    win:
-    export GH_TOKEN="6c8f0cae5040eb157c03946c2012e71dce36e71f"
