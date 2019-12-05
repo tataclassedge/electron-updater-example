@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-example",
-  "version": "0.7.3",
+  "version": "0.7.6",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Prasanna",
@@ -16,7 +16,13 @@
     "electron-updater": "^4.0.6"
   },
   "build": {
-    "appId": "com.github.iffy.electronupdaterexample",
+    "appId": "com.tce.test.clientapp",
+    "publish": [
+      {
+        "provider": "generic",
+        "url": "http://172.18.1.57:8080/linkedge/electronapp/"
+      }
+    ],
     "mac": {
       "category": "your.app.category.type",
       "target": [
